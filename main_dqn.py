@@ -15,7 +15,7 @@ if __name__ == '__main__':
                 memory=20000,batch_size=32,target_update=7,env=env,save=True)
     A.policy_net.load_state_dict(torch.load('/home/raj/My_projects/DQN/CartPole.pt'))
     scores, avg_score, epsilon_history = [], [], []
-    best_score = 150
+    best_score = 0
     n_games = 3000
     score = 0
 
