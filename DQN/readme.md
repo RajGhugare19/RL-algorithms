@@ -3,7 +3,11 @@
 
 ## Results
 
+### Trained Mountain Car :
 ![](https://media.giphy.com/media/dZopKlQbCgEBTPBy8n/giphy.gif)
+
+### Trained Cart Pole :
+1[](https://media.giphy.com/media/J5Yh1aY9WhlJc4TZFR/giphy.gif)
 
 ## Abstract:
 
