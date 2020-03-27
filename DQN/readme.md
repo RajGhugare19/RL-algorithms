@@ -22,8 +22,8 @@ Function approximators like neural networks have succesfully been combined with 
 
 ## Dependencies:
 
--- Anaconda: [link](https://docs.anaconda.com/anaconda/install/linux/)
--- OpenAi gym: [link](https://gym.openai.com/)
--- pytorch: [link](https://pytorch.org/)
+- Anaconda: [link](https://docs.anaconda.com/anaconda/install/linux/)
+- OpenAi gym: [link](https://gym.openai.com/)
+- pytorch: [link](https://pytorch.org/)
 
 
