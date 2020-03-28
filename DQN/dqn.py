@@ -42,7 +42,7 @@ class DeepQNetwork(nn.Module):
         action_values = self.linear2(x)
         return action_values
 
-class cart_agent():
+class agent():
 
     def __init__(self,epsilon,eps_decay,epsilon_min,gamma,l_r,n_actions,memory,batch_size,target_update,env,save=False):
         self.epsilon = epsilon
