@@ -9,7 +9,7 @@ device = torch.device('cuda' if torch.cuda.is_available else 'cpu')
 env = gym.make('MountainCar-v0').unwrapped
 
 if __name__ == '__main__':
-    player =  cart_agent(epsilon=0,eps_decay=0,epsilon_min=0,gamma=0,l_r=0,n_actions=3,
+    player =  agent(epsilon=0,eps_decay=0,epsilon_min=0,gamma=0,l_r=0,n_actions=3,
                 memory=0,batch_size=0,target_update=0,env = env,save = True)
     n_games = 3
     scores = []
