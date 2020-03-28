@@ -11,7 +11,7 @@ if __name__ == '__main__':
 
     env = gym.make('MountainCar-v0')
 
-    A =  cart_agent(epsilon=1,eps_decay=0.005,epsilon_min=0.01,gamma=0.99,l_r=0.0001,n_actions=3,
+    A =  agent(epsilon=1,eps_decay=0.005,epsilon_min=0.01,gamma=0.99,l_r=0.0001,n_actions=3,
                 memory=20000,batch_size=32,target_update=7,env=env,save=True)
 
     scores, avg_score, epsilon_history = [], [], []
