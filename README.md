@@ -3,7 +3,10 @@ This is a repository of my codes for implementing deep RL research papers
 
 ### Algorithms implemented
 
-- [X]  Deep Q learning using fixed Q targets and experience replay ```(There is a seperate readme for further details about its implementation in the DQN folder) ```
+```(There is a seperate readme for further details about its implementation in the every folder) 
 
-
+#### Value based methods
+- [X]  Deep Q learning using fixed Q targets and experience replay ```
+#### Policy based methods
+- [X] REINFORCE
 
