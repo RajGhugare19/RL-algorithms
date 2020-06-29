@@ -4,4 +4,4 @@ REINFORCE is a vanilla policy gradient approach towards RL problems. This algori
 
 My research notes on the derivation and description of this algorithm 
 
-[NOTES](https://hackmd.io/YSPZM9WYR7a4sIAcqtAe6Q)
+[my notes on REINFORCE](https://hackmd.io/YSPZM9WYR7a4sIAcqtAe6Q)
