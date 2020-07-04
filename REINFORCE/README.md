@@ -9,7 +9,7 @@ REINFORCE is a vanilla policy gradient approach towards RL problems. This algori
 
 
 ### Observations:
-This method theoretically seems to work in expectation terms, but for individual trails often gives sub-optimal results.The new data generated depends upon previous policy and hence this technique cannot be used in high stake situations.
+This method theoretically seems to work in expectation terms, but for individual trials occasionally gives sub-optimal results.The new data generated depends upon previous policy and hence this technique cannot be used in high stake situations.
 
 ### dependencies:
 
