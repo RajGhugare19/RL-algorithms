@@ -5,4 +5,4 @@ REINFORCE is a vanilla policy gradient approach towards RL problems. This algori
 
 ### Results:
 
-![result](./images/figure_1.png)
+![](./images/Figure_1.png)
