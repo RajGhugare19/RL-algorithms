@@ -7,7 +7,7 @@ REINFORCE is a vanilla policy gradient approach towards RL problems. This algori
 
 #### CartPole-v0
 
-![](./images/Figure_1.png)
+![](./images/CartPole(v0).png)
 
 #### LunarLander-v2
 
