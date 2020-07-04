@@ -4,7 +4,7 @@
 
 #### CartPole-v0
 
-![](./images/CartPole(v0).png)
+![](./images/CartPole-v0.png)
 
 ### Observations:
 Baselines are used to reduce variance in the  gradient estimate of the policy performance
