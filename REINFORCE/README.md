@@ -4,10 +4,13 @@
 REINFORCE is a vanilla policy gradient approach towards RL problems. This algorithm is implemented succesfully on the followoing problem from OpenAi gym
 
 ### Results:
-* CartPole-v0
+
+#### CartPole-v0
+
 ![](./images/Figure_1.png)
 
-* LunarLander-v2
+#### LunarLander-v2
+
 ![](./images/LunarLander(v2).png)
 
 ### Observations:
