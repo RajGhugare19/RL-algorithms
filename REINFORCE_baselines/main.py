@@ -10,6 +10,7 @@ INPUT_DIMS = [4]
 GAMMA = 0.99
 N_ACTIONS = 2
 N_GAMES = 400
+best_score = -1000
 
 if __name__ == '__main__':
     env = gym.make(NAME)
@@ -18,7 +19,6 @@ if __name__ == '__main__':
     score_history = []
     score = 0
     n_games = N_GAMES
-    best_score = -1000
     for i in range(n_games):
         print('episode: ', i, 'score %.3f' % score)
         done = False
