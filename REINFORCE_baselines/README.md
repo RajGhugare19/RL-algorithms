@@ -6,5 +6,5 @@ Baselines are used to reduce variance in the  gradient estimate of the policy pe
 
 ### dependencies:
 
-* ![openai gym](https://gym.openai.com/)           
-* ![pytorch](https://pytorch.org/)
+* [openai gym](https://gym.openai.com/)           
+* [pytorch](https://pytorch.org/)
