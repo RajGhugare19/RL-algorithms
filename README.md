@@ -10,4 +10,4 @@ This is a repository of my codes for implementing deep RL research papers
 
 #### Policy based methods
 - [X] REINFORCE
-
+- [X] REINFORCE with baseline
