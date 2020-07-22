@@ -30,4 +30,7 @@ Function approximators like neural networks have succesfully been combined with 
 - OpenAi gym: [link](https://gym.openai.com/)
 - pytorch: [link](https://pytorch.org/)
 
+## References:
+
+- [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
 
