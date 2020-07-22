@@ -18,6 +18,6 @@ This method theoretically seems to work in expectation terms, but for individual
 
 ### dependencies:
 
-* ![openai gym](https://gym.openai.com/)           
-* ![pytorch](https://pytorch.org/)
+* [openai gym](https://gym.openai.com/)           
+* [pytorch](https://pytorch.org/)
 
