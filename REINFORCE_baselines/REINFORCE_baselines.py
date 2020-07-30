@@ -78,7 +78,7 @@ class Agent(object):
         G = np.zeros_like(self.reward_memory, dtype=np.float64)
         for t in range(len(self.reward_memory)):
             g_sum = 0
-            disc = self.gamma**t
+            disc = 1
             for i in range(t, len(self.reward_memory)):
                 g_sum += self.reward_memory[i]*disc
                 disc *= self.gamma
